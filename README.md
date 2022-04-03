@@ -1,5 +1,5 @@
 ## Hi my name is Jonas Sousa,<------------->olá meu nome é Jonas Sousa,
-    Artista De circo e atualmente estudando programacao.    Circus Artist and currently studing programming.
+    Artista De circo, atualmente estudando programacao.    Circus Artist currently studing programming.
     Descobrindo novas habilidades.                          discovering new skills.
 
 
